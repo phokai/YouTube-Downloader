@@ -5,15 +5,15 @@
 ---
 ### Screenshots
 
-
-
+![1](https://user-images.githubusercontent.com/43812088/152600723-7825be5a-0725-41cb-85e8-12eb76f5e2a3.png)
+![2](https://user-images.githubusercontent.com/43812088/152600745-014c1cf4-9499-4198-ab7b-174fceb7b936.png)
 
 ---
 ### Files and Descriptions
 
 | Files | Descriptions |
 | --- | --- |
-| [PassGen.exe](PassGen.exe) | Download the .exe file. |
+| [YouTube_Downloader.exe](YouTube_Downloader.exe) | Download the .exe file. |
 | [design.ui](design.ui) | Interface file prepared with QT Designer. |
 | [convert.py](convert.py) | .ui to .py convert. |
 | [design.py](design.py) | The file containing the components in the interface prepared with QT Designer. |
