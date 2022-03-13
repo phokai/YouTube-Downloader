@@ -19,4 +19,5 @@
 | [design.py](design.py) | The file containing the components in the interface prepared with QT Designer. |
 | [main.py](main.py) | Main code block of the program. |
 
-> The interface was prepared with the QT Designer program and included in the project using the PyQt6 library.
+> **youtube_dl** library is used to download content from youtube. <br>
+> The interface was prepared with the **QT Designer** program and included in the project using the **PyQt6** library.
